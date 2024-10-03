@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-01T15:30:00 IST" name="Default suite" finished-at="2024-10-01T15:30:01 IST" duration-ms="551">
+    <groups>
+    </groups>
+    <test started-at="2024-10-01T15:30:00 IST" name="Default test" finished-at="2024-10-01T15:30:01 IST" duration-ms="551">
+      <class name="arp.arpallure.Test1">
+        <test-method signature="Test_01()[pri:0, instance:arp.arpallure.Test1@7a5ceedd]" started-at="2024-10-01T15:30:00 IST" name="Test_01" finished-at="2024-10-01T15:30:01 IST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_01 -->
+      </class> <!-- arp.arpallure.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
